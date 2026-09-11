@@ -1,0 +1,11 @@
+verb: répondre
+english: to answer
+group: regular -re verb
+---
+tense: présent
+je: réponds
+tu: réponds
+il/elle/on: répond
+nous: répondons
+vous: répondez
+ils/elles: répondent

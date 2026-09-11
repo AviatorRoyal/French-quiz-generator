@@ -1,0 +1,11 @@
+verb: nourrir
+english: to feed
+group: 2nd-group -ir verb
+---
+tense: présent
+je: nourris
+tu: nourris
+il/elle/on: nourrit
+nous: nourrissons
+vous: nourrissez
+ils/elles: nourrissent

@@ -1,6 +1,12 @@
 # One quiz file per line. Lines starting with # are ignored.
 # Order here = order shown on the home page.
 
-french-present-er.txt
-french-mixed-demo.txt
+er-regular.txt
+er-spelling.txt
+ir-regular.txt
+ir-irregular.txt
+re-regular.txt
+irregular-core.txt
+mixed-review.txt
+
 sample-other-subject.txt

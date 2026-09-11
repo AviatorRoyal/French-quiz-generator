@@ -1,0 +1,12 @@
+verb: espérer
+english: to hope
+group: spelling-change -er verb
+note: é becomes è in the singular and ils/elles — but not in nous/vous.
+---
+tense: présent
+j': espère
+tu: espères
+il/elle/on: espère
+nous: espérons
+vous: espérez
+ils/elles: espèrent

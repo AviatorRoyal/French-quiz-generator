@@ -1,0 +1,12 @@
+verb: vivre
+english: to live
+group: irregular verb
+note: The plural adds -v-: nous vivons.
+---
+tense: présent
+je: vis
+tu: vis
+il/elle/on: vit
+nous: vivons
+vous: vivez
+ils/elles: vivent

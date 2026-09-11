@@ -1,0 +1,11 @@
+verb: mordre
+english: to bite
+group: regular -re verb
+---
+tense: présent
+je: mords
+tu: mords
+il/elle/on: mord
+nous: mordons
+vous: mordez
+ils/elles: mordent

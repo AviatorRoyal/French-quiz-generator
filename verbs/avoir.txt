@@ -1,9 +1,10 @@
 verb: avoir
 english: to have
-group: irregular
+group: irregular verb
+note: Completely irregular — learn the whole table.
 ---
 tense: présent
-je: ai
+j': ai
 tu: as
 il/elle/on: a
 nous: avons

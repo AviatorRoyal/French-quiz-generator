@@ -1,0 +1,11 @@
+verb: définir
+english: to define
+group: 2nd-group -ir verb
+---
+tense: présent
+je: définis
+tu: définis
+il/elle/on: définit
+nous: définissons
+vous: définissez
+ils/elles: définissent

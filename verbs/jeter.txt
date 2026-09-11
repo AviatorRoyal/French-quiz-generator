@@ -1,0 +1,12 @@
+verb: jeter
+english: to throw away
+group: spelling-change -er verb
+note: The final consonant doubles in the singular and ils/elles.
+---
+tense: présent
+je: jette
+tu: jettes
+il/elle/on: jette
+nous: jetons
+vous: jetez
+ils/elles: jettent

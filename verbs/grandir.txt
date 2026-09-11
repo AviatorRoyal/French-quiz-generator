@@ -1,0 +1,11 @@
+verb: grandir
+english: to grow up
+group: 2nd-group -ir verb
+---
+tense: présent
+je: grandis
+tu: grandis
+il/elle/on: grandit
+nous: grandissons
+vous: grandissez
+ils/elles: grandissent

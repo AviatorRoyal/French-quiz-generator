@@ -1,0 +1,11 @@
+verb: entrer
+english: to enter
+group: regular -er verb
+---
+tense: présent
+j': entre
+tu: entres
+il/elle/on: entre
+nous: entrons
+vous: entrez
+ils/elles: entrent

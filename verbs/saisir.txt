@@ -1,0 +1,11 @@
+verb: saisir
+english: to seize
+group: 2nd-group -ir verb
+---
+tense: présent
+je: saisis
+tu: saisis
+il/elle/on: saisit
+nous: saisissons
+vous: saisissez
+ils/elles: saisissent

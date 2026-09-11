@@ -1,6 +1,7 @@
 verb: être
 english: to be
-group: irregular
+group: irregular verb
+note: Completely irregular — this one has to be learnt by heart.
 ---
 tense: présent
 je: suis

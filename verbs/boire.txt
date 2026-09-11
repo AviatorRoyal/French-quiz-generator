@@ -1,0 +1,12 @@
+verb: boire
+english: to drink
+group: irregular verb
+note: Three stems: boi- / buv- / boiv-.
+---
+tense: présent
+je: bois
+tu: bois
+il/elle/on: boit
+nous: buvons
+vous: buvez
+ils/elles: boivent

@@ -1,0 +1,11 @@
+verb: finir
+english: to finish
+group: 2nd-group -ir verb
+---
+tense: présent
+je: finis
+tu: finis
+il/elle/on: finit
+nous: finissons
+vous: finissez
+ils/elles: finissent

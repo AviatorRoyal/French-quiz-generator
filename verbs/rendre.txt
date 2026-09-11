@@ -1,0 +1,11 @@
+verb: rendre
+english: to give back
+group: regular -re verb
+---
+tense: présent
+je: rends
+tu: rends
+il/elle/on: rend
+nous: rendons
+vous: rendez
+ils/elles: rendent

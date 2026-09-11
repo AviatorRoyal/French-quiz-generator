@@ -1,0 +1,12 @@
+verb: servir
+english: to serve
+group: 3rd-group -ir verb
+note: partir-type: je sers, nous servons.
+---
+tense: présent
+je: sers
+tu: sers
+il/elle/on: sert
+nous: servons
+vous: servez
+ils/elles: servent

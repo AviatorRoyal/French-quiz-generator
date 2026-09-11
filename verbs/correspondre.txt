@@ -1,0 +1,11 @@
+verb: correspondre
+english: to correspond
+group: regular -re verb
+---
+tense: présent
+je: corresponds
+tu: corresponds
+il/elle/on: correspond
+nous: correspondons
+vous: correspondez
+ils/elles: correspondent

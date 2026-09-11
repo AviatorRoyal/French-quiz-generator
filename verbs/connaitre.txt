@@ -1,0 +1,12 @@
+verb: connaître
+english: to know (someone)
+group: irregular verb
+note: Circumflex on il connaît; the plural adds -ss-.
+---
+tense: présent
+je: connais
+tu: connais
+il/elle/on: connaît / connait
+nous: connaissons
+vous: connaissez
+ils/elles: connaissent

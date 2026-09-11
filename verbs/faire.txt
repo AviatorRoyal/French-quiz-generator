@@ -1,0 +1,12 @@
+verb: faire
+english: to do, to make
+group: irregular verb
+note: Watch vous faites and ils font — no -ez, no -ent.
+---
+tense: présent
+je: fais
+tu: fais
+il/elle/on: fait
+nous: faisons
+vous: faites
+ils/elles: font

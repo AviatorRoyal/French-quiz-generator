@@ -1,0 +1,11 @@
+verb: réussir
+english: to succeed
+group: 2nd-group -ir verb
+---
+tense: présent
+je: réussis
+tu: réussis
+il/elle/on: réussit
+nous: réussissons
+vous: réussissez
+ils/elles: réussissent

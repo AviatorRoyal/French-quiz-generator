@@ -1,0 +1,11 @@
+verb: donner
+english: to give
+group: regular -er verb
+---
+tense: présent
+je: donne
+tu: donnes
+il/elle/on: donne
+nous: donnons
+vous: donnez
+ils/elles: donnent

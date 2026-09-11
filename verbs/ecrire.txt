@@ -1,0 +1,12 @@
+verb: écrire
+english: to write
+group: irregular verb
+note: The plural adds -v-: nous écrivons.
+---
+tense: présent
+j': écris
+tu: écris
+il/elle/on: écrit
+nous: écrivons
+vous: écrivez
+ils/elles: écrivent

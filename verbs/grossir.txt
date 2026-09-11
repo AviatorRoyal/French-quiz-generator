@@ -1,0 +1,11 @@
+verb: grossir
+english: to put on weight
+group: 2nd-group -ir verb
+---
+tense: présent
+je: grossis
+tu: grossis
+il/elle/on: grossit
+nous: grossissons
+vous: grossissez
+ils/elles: grossissent

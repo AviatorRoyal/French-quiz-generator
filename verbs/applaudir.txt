@@ -1,0 +1,11 @@
+verb: applaudir
+english: to applaud
+group: 2nd-group -ir verb
+---
+tense: présent
+j': applaudis
+tu: applaudis
+il/elle/on: applaudit
+nous: applaudissons
+vous: applaudissez
+ils/elles: applaudissent

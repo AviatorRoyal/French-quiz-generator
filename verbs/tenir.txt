@@ -1,0 +1,12 @@
+verb: tenir
+english: to hold
+group: 3rd-group -ir verb
+note: tenir-type: tienn- in the singular and ils/elles.
+---
+tense: présent
+je: tiens
+tu: tiens
+il/elle/on: tient
+nous: tenons
+vous: tenez
+ils/elles: tiennent

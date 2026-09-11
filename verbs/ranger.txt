@@ -1,0 +1,12 @@
+verb: ranger
+english: to tidy up
+group: spelling-change -er verb
+note: Keeps the -e- before -ons so the g stays soft: nous mangeons.
+---
+tense: présent
+je: range
+tu: ranges
+il/elle/on: range
+nous: rangeons
+vous: rangez
+ils/elles: rangent

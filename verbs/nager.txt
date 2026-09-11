@@ -1,0 +1,12 @@
+verb: nager
+english: to swim
+group: spelling-change -er verb
+note: Keeps the -e- before -ons so the g stays soft: nous mangeons.
+---
+tense: présent
+je: nage
+tu: nages
+il/elle/on: nage
+nous: nageons
+vous: nagez
+ils/elles: nagent

@@ -1,0 +1,11 @@
+verb: tondre
+english: to mow
+group: regular -re verb
+---
+tense: présent
+je: tonds
+tu: tonds
+il/elle/on: tond
+nous: tondons
+vous: tondez
+ils/elles: tondent

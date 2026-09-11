@@ -1,0 +1,12 @@
+verb: maintenir
+english: to maintain
+group: 3rd-group -ir verb
+note: tenir-type: maintienn- in the singular and ils/elles.
+---
+tense: présent
+je: maintiens
+tu: maintiens
+il/elle/on: maintient
+nous: maintenons
+vous: maintenez
+ils/elles: maintiennent

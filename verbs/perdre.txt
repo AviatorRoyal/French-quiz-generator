@@ -1,0 +1,11 @@
+verb: perdre
+english: to lose
+group: regular -re verb
+---
+tense: présent
+je: perds
+tu: perds
+il/elle/on: perd
+nous: perdons
+vous: perdez
+ils/elles: perdent

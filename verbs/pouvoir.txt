@@ -1,0 +1,12 @@
+verb: pouvoir
+english: to be able to
+group: irregular verb
+note: Stem peu- in the singular, pouv- for nous/vous, peuv- for ils/elles.
+---
+tense: présent
+je: peux
+tu: peux
+il/elle/on: peut
+nous: pouvons
+vous: pouvez
+ils/elles: peuvent

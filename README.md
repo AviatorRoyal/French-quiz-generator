@@ -11,6 +11,41 @@ is about. Only the présent is filled in for now.
 All content lives in plain text files: quizzes in `quiz/`, verb tables in
 `verbs/`. Adding material never means touching the code.
 
+## What's in it
+
+| quiz | verbs | bank |
+|---|---|---|
+| `-er` regular | parler, aimer, habiter… | 120 |
+| `-er` spelling changes | manger, commencer, préférer, acheter, appeler, jeter, payer, nettoyer | 120 |
+| `-ir` regular (2nd group) | finir, choisir, réussir… | 120 |
+| `-ir` irregular (3rd group) | partir, ouvrir, venir, courir, mourir… | 120 |
+| `-re` regular | vendre, attendre, répondre… | 120 |
+| Core irregulars | être, avoir, aller, faire, prendre, pouvoir… | 120 |
+| Mixed review | a slice of every group | 216 |
+
+Each attempt asks **25 questions drawn at random** from the bank, with the
+multiple-choice options shuffled too, so the same quiz is different every time.
+"Try again" draws a fresh set. Change the count with `pick:` in a quiz header;
+drop the line to ask the whole bank.
+
+## Regenerating the content
+
+The quizzes and verb tables are generated:
+
+```bash
+python tools/generate.py
+```
+
+Edit [`tools/generate.py`](tools/generate.py) — add a verb to one of the lists
+at the top and rerun — rather than editing the generated files, which are
+overwritten. Regular verbs need only `(infinitive, english, complement)`; the
+group's rule conjugates them. Spelling-change verbs name their rule (`ger`,
+`cer`, `eacute`, `egrave`, `double`, `yer`, `ayer`). Irregular verbs list their
+six forms. Hand-written quizzes listed in `HAND_WRITTEN` are left untouched.
+
+Everything below describes the file format itself, in case you'd rather write
+a quiz by hand.
+
 ## Run it locally
 
 ```bash
@@ -68,6 +103,7 @@ why: tu takes -es for -er verbs.
 | `title` | yes | Card heading |
 | `description` | no | One line under the heading |
 | `tags` | no | Comma- or pipe-separated. Also used to guess which tense to highlight in the hint table |
+| `pick` | no | Ask this many questions, chosen at random. Omit to ask the whole file |
 
 ### Question keys
 
@@ -143,4 +179,5 @@ js/theme.js       light/dark toggle
 js/scores.js      best scores (localStorage)
 quiz/             one .txt per quiz + index.txt
 verbs/            one .txt per verb table
+tools/generate.py builds quiz/ and verbs/ from verb lists
 ```

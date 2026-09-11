@@ -1,0 +1,12 @@
+verb: offrir
+english: to offer
+group: 3rd-group -ir verb
+note: ouvrir-type: takes -er endings.
+---
+tense: présent
+j': offre
+tu: offres
+il/elle/on: offre
+nous: offrons
+vous: offrez
+ils/elles: offrent

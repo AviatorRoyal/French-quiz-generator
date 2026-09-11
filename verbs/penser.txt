@@ -1,0 +1,11 @@
+verb: penser
+english: to think
+group: regular -er verb
+---
+tense: présent
+je: pense
+tu: penses
+il/elle/on: pense
+nous: pensons
+vous: pensez
+ils/elles: pensent

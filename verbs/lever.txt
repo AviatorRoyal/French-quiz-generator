@@ -1,0 +1,12 @@
+verb: lever
+english: to raise
+group: spelling-change -er verb
+note: e becomes è in the singular and ils/elles — but not in nous/vous.
+---
+tense: présent
+je: lève
+tu: lèves
+il/elle/on: lève
+nous: levons
+vous: levez
+ils/elles: lèvent

@@ -1,0 +1,11 @@
+verb: porter
+english: to wear, to carry
+group: regular -er verb
+---
+tense: présent
+je: porte
+tu: portes
+il/elle/on: porte
+nous: portons
+vous: portez
+ils/elles: portent

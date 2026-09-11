@@ -1,0 +1,11 @@
+verb: travailler
+english: to work
+group: regular -er verb
+---
+tense: présent
+je: travaille
+tu: travailles
+il/elle/on: travaille
+nous: travaillons
+vous: travaillez
+ils/elles: travaillent

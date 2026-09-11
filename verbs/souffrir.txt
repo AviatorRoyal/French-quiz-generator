@@ -1,0 +1,12 @@
+verb: souffrir
+english: to suffer
+group: 3rd-group -ir verb
+note: ouvrir-type: takes -er endings.
+---
+tense: présent
+je: souffre
+tu: souffres
+il/elle/on: souffre
+nous: souffrons
+vous: souffrez
+ils/elles: souffrent

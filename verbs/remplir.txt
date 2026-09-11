@@ -1,0 +1,11 @@
+verb: remplir
+english: to fill in
+group: 2nd-group -ir verb
+---
+tense: présent
+je: remplis
+tu: remplis
+il/elle/on: remplit
+nous: remplissons
+vous: remplissez
+ils/elles: remplissent

@@ -1,0 +1,11 @@
+verb: unir
+english: to unite
+group: 2nd-group -ir verb
+---
+tense: présent
+j': unis
+tu: unis
+il/elle/on: unit
+nous: unissons
+vous: unissez
+ils/elles: unissent

@@ -1,0 +1,12 @@
+verb: dire
+english: to say
+group: irregular verb
+note: Watch vous dites — not vous disez.
+---
+tense: présent
+je: dis
+tu: dis
+il/elle/on: dit
+nous: disons
+vous: dites
+ils/elles: disent

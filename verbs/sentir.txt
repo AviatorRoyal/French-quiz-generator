@@ -1,0 +1,12 @@
+verb: sentir
+english: to smell, to feel
+group: 3rd-group -ir verb
+note: partir-type: je sens, nous sentons.
+---
+tense: présent
+je: sens
+tu: sens
+il/elle/on: sent
+nous: sentons
+vous: sentez
+ils/elles: sentent

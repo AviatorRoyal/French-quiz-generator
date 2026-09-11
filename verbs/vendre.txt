@@ -1,0 +1,11 @@
+verb: vendre
+english: to sell
+group: regular -re verb
+---
+tense: présent
+je: vends
+tu: vends
+il/elle/on: vend
+nous: vendons
+vous: vendez
+ils/elles: vendent

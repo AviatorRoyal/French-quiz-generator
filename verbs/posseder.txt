@@ -1,0 +1,12 @@
+verb: posséder
+english: to own
+group: spelling-change -er verb
+note: é becomes è in the singular and ils/elles — but not in nous/vous.
+---
+tense: présent
+je: possède
+tu: possèdes
+il/elle/on: possède
+nous: possédons
+vous: possédez
+ils/elles: possèdent

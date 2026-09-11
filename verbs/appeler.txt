@@ -1,0 +1,12 @@
+verb: appeler
+english: to call
+group: spelling-change -er verb
+note: The final consonant doubles in the singular and ils/elles.
+---
+tense: présent
+j': appelle
+tu: appelles
+il/elle/on: appelle
+nous: appelons
+vous: appelez
+ils/elles: appellent

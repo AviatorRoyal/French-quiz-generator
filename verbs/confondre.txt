@@ -1,0 +1,11 @@
+verb: confondre
+english: to mix up
+group: regular -re verb
+---
+tense: présent
+je: confonds
+tu: confonds
+il/elle/on: confond
+nous: confondons
+vous: confondez
+ils/elles: confondent

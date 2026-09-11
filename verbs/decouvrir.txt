@@ -1,0 +1,12 @@
+verb: découvrir
+english: to discover
+group: 3rd-group -ir verb
+note: ouvrir-type: takes -er endings.
+---
+tense: présent
+je: découvre
+tu: découvres
+il/elle/on: découvre
+nous: découvrons
+vous: découvrez
+ils/elles: découvrent

@@ -1,0 +1,11 @@
+verb: prétendre
+english: to claim
+group: regular -re verb
+---
+tense: présent
+je: prétends
+tu: prétends
+il/elle/on: prétend
+nous: prétendons
+vous: prétendez
+ils/elles: prétendent

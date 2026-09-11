@@ -1,0 +1,11 @@
+verb: regarder
+english: to watch
+group: regular -er verb
+---
+tense: présent
+je: regarde
+tu: regardes
+il/elle/on: regarde
+nous: regardons
+vous: regardez
+ils/elles: regardent

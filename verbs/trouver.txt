@@ -1,0 +1,11 @@
+verb: trouver
+english: to find
+group: regular -er verb
+---
+tense: présent
+je: trouve
+tu: trouves
+il/elle/on: trouve
+nous: trouvons
+vous: trouvez
+ils/elles: trouvent

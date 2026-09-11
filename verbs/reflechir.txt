@@ -1,0 +1,11 @@
+verb: réfléchir
+english: to think it over
+group: 2nd-group -ir verb
+---
+tense: présent
+je: réfléchis
+tu: réfléchis
+il/elle/on: réfléchit
+nous: réfléchissons
+vous: réfléchissez
+ils/elles: réfléchissent

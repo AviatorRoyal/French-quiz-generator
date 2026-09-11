@@ -1,0 +1,11 @@
+verb: attendre
+english: to wait for
+group: regular -re verb
+---
+tense: présent
+j': attends
+tu: attends
+il/elle/on: attend
+nous: attendons
+vous: attendez
+ils/elles: attendent

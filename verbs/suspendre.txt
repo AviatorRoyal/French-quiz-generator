@@ -1,0 +1,11 @@
+verb: suspendre
+english: to hang up
+group: regular -re verb
+---
+tense: présent
+je: suspends
+tu: suspends
+il/elle/on: suspend
+nous: suspendons
+vous: suspendez
+ils/elles: suspendent

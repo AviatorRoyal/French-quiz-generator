@@ -1,0 +1,12 @@
+verb: prendre
+english: to take
+group: irregular verb
+note: The d disappears in the plural, and nn appears in ils prennent.
+---
+tense: présent
+je: prends
+tu: prends
+il/elle/on: prend
+nous: prenons
+vous: prenez
+ils/elles: prennent

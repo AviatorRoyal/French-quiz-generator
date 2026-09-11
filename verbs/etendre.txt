@@ -1,0 +1,11 @@
+verb: étendre
+english: to hang out
+group: regular -re verb
+---
+tense: présent
+j': étends
+tu: étends
+il/elle/on: étend
+nous: étendons
+vous: étendez
+ils/elles: étendent

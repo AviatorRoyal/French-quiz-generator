@@ -1,0 +1,11 @@
+verb: rester
+english: to stay
+group: regular -er verb
+---
+tense: présent
+je: reste
+tu: restes
+il/elle/on: reste
+nous: restons
+vous: restez
+ils/elles: restent

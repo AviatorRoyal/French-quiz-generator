@@ -1,0 +1,12 @@
+verb: ouvrir
+english: to open
+group: 3rd-group -ir verb
+note: ouvrir-type: an -ir verb that takes -er endings — j'ouvre, not je ouvris.
+---
+tense: présent
+j': ouvre
+tu: ouvres
+il/elle/on: ouvre
+nous: ouvrons
+vous: ouvrez
+ils/elles: ouvrent

@@ -1,0 +1,12 @@
+verb: recevoir
+english: to receive
+group: irregular verb
+note: Cedilla before o: je reçois, but nous recevons.
+---
+tense: présent
+je: reçois
+tu: reçois
+il/elle/on: reçoit
+nous: recevons
+vous: recevez
+ils/elles: reçoivent

@@ -1,0 +1,12 @@
+verb: mentir
+english: to lie
+group: 3rd-group -ir verb
+note: partir-type: je mens, nous mentons.
+---
+tense: présent
+je: mens
+tu: mens
+il/elle/on: ment
+nous: mentons
+vous: mentez
+ils/elles: mentent

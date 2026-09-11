@@ -1,0 +1,11 @@
+verb: descendre
+english: to go down
+group: regular -re verb
+---
+tense: présent
+je: descends
+tu: descends
+il/elle/on: descend
+nous: descendons
+vous: descendez
+ils/elles: descendent

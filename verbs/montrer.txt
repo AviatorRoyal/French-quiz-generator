@@ -1,0 +1,11 @@
+verb: montrer
+english: to show
+group: regular -er verb
+---
+tense: présent
+je: montre
+tu: montres
+il/elle/on: montre
+nous: montrons
+vous: montrez
+ils/elles: montrent

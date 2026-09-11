@@ -1,0 +1,11 @@
+verb: dépendre
+english: to depend
+group: regular -re verb
+---
+tense: présent
+je: dépends
+tu: dépends
+il/elle/on: dépend
+nous: dépendons
+vous: dépendez
+ils/elles: dépendent

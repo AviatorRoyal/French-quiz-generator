@@ -1,0 +1,12 @@
+verb: venir
+english: to come
+group: 3rd-group -ir verb
+note: venir-type: the stem becomes vienn- in the singular and ils/elles.
+---
+tense: présent
+je: viens
+tu: viens
+il/elle/on: vient
+nous: venons
+vous: venez
+ils/elles: viennent

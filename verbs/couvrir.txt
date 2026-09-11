@@ -1,0 +1,12 @@
+verb: couvrir
+english: to cover
+group: 3rd-group -ir verb
+note: ouvrir-type: takes -er endings.
+---
+tense: présent
+je: couvre
+tu: couvres
+il/elle/on: couvre
+nous: couvrons
+vous: couvrez
+ils/elles: couvrent

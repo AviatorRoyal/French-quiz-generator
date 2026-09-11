@@ -1,0 +1,12 @@
+verb: apprendre
+english: to learn
+group: irregular verb
+note: Follows prendre: apprenons, apprennent.
+---
+tense: présent
+j': apprends
+tu: apprends
+il/elle/on: apprend
+nous: apprenons
+vous: apprenez
+ils/elles: apprennent

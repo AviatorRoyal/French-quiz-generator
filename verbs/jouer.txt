@@ -1,0 +1,11 @@
+verb: jouer
+english: to play
+group: regular -er verb
+---
+tense: présent
+je: joue
+tu: joues
+il/elle/on: joue
+nous: jouons
+vous: jouez
+ils/elles: jouent

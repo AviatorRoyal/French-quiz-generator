@@ -1,0 +1,12 @@
+verb: dormir
+english: to sleep
+group: 3rd-group -ir verb
+note: partir-type: je dors, nous dormons.
+---
+tense: présent
+je: dors
+tu: dors
+il/elle/on: dort
+nous: dormons
+vous: dormez
+ils/elles: dorment

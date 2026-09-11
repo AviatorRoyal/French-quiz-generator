@@ -1,0 +1,11 @@
+verb: aimer
+english: to like, to love
+group: regular -er verb
+---
+tense: présent
+j': aime
+tu: aimes
+il/elle/on: aime
+nous: aimons
+vous: aimez
+ils/elles: aiment

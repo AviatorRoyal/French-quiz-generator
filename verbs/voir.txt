@@ -1,0 +1,12 @@
+verb: voir
+english: to see
+group: irregular verb
+note: The i becomes y in nous voyons and vous voyez.
+---
+tense: présent
+je: vois
+tu: vois
+il/elle/on: voit
+nous: voyons
+vous: voyez
+ils/elles: voient

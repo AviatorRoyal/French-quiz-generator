@@ -1,0 +1,11 @@
+verb: écouter
+english: to listen to
+group: regular -er verb
+---
+tense: présent
+j': écoute
+tu: écoutes
+il/elle/on: écoute
+nous: écoutons
+vous: écoutez
+ils/elles: écoutent

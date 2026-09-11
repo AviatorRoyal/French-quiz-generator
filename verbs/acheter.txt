@@ -1,0 +1,12 @@
+verb: acheter
+english: to buy
+group: spelling-change -er verb
+note: e becomes è in the singular and ils/elles — but not in nous/vous.
+---
+tense: présent
+j': achète
+tu: achètes
+il/elle/on: achète
+nous: achetons
+vous: achetez
+ils/elles: achètent

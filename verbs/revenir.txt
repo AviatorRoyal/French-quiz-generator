@@ -1,0 +1,12 @@
+verb: revenir
+english: to come back
+group: 3rd-group -ir verb
+note: venir-type: revienn- in the singular and ils/elles.
+---
+tense: présent
+je: reviens
+tu: reviens
+il/elle/on: revient
+nous: revenons
+vous: revenez
+ils/elles: reviennent

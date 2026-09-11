@@ -1,0 +1,12 @@
+verb: avancer
+english: to move forward
+group: spelling-change -er verb
+note: c becomes ç before -ons so it stays soft: nous commençons.
+---
+tense: présent
+j': avance
+tu: avances
+il/elle/on: avance
+nous: avançons
+vous: avancez
+ils/elles: avancent

@@ -1,0 +1,11 @@
+verb: fondre
+english: to melt
+group: regular -re verb
+---
+tense: présent
+je: fonds
+tu: fonds
+il/elle/on: fond
+nous: fondons
+vous: fondez
+ils/elles: fondent

@@ -1,0 +1,12 @@
+verb: préférer
+english: to prefer
+group: spelling-change -er verb
+note: é becomes è in the singular and ils/elles — but not in nous/vous.
+---
+tense: présent
+je: préfère
+tu: préfères
+il/elle/on: préfère
+nous: préférons
+vous: préférez
+ils/elles: préfèrent

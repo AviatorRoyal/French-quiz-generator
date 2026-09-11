@@ -1,0 +1,12 @@
+verb: répéter
+english: to repeat
+group: spelling-change -er verb
+note: é becomes è in the singular and ils/elles — but not in nous/vous.
+---
+tense: présent
+je: répète
+tu: répètes
+il/elle/on: répète
+nous: répétons
+vous: répétez
+ils/elles: répètent

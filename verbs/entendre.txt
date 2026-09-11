@@ -1,0 +1,11 @@
+verb: entendre
+english: to hear
+group: regular -re verb
+---
+tense: présent
+j': entends
+tu: entends
+il/elle/on: entend
+nous: entendons
+vous: entendez
+ils/elles: entendent

@@ -1,7 +1,7 @@
 verb: manger
 english: to eat
-group: 1st group (-er), spelling change before -ons
-note: Keeps the -e- before a/o endings to preserve the soft "g" sound.
+group: spelling-change -er verb
+note: Keeps the -e- before -ons so the g stays soft: nous mangeons.
 ---
 tense: présent
 je: mange

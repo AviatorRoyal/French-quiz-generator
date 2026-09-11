@@ -1,0 +1,12 @@
+verb: mourir
+english: to die
+group: 3rd-group -ir verb
+note: Stem changes to meur- in the singular and ils/elles.
+---
+tense: présent
+je: meurs
+tu: meurs
+il/elle/on: meurt
+nous: mourons
+vous: mourez
+ils/elles: meurent

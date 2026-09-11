@@ -1,0 +1,11 @@
+verb: guérir
+english: to heal
+group: 2nd-group -ir verb
+---
+tense: présent
+je: guéris
+tu: guéris
+il/elle/on: guérit
+nous: guérissons
+vous: guérissez
+ils/elles: guérissent

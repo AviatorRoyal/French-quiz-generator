@@ -1,0 +1,11 @@
+verb: danser
+english: to dance
+group: regular -er verb
+---
+tense: présent
+je: danse
+tu: danses
+il/elle/on: danse
+nous: dansons
+vous: dansez
+ils/elles: dansent

@@ -1,0 +1,12 @@
+verb: sortir
+english: to go out
+group: 3rd-group -ir verb
+note: partir-type: je sors, nous sortons.
+---
+tense: présent
+je: sors
+tu: sors
+il/elle/on: sort
+nous: sortons
+vous: sortez
+ils/elles: sortent

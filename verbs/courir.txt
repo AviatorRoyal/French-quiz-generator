@@ -1,0 +1,12 @@
+verb: courir
+english: to run
+group: 3rd-group -ir verb
+note: Keeps the r of the stem throughout: je cours, nous courons.
+---
+tense: présent
+je: cours
+tu: cours
+il/elle/on: court
+nous: courons
+vous: courez
+ils/elles: courent

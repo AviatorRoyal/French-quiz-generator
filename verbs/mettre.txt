@@ -1,0 +1,12 @@
+verb: mettre
+english: to put
+group: irregular verb
+note: One t in the singular, two in the plural.
+---
+tense: présent
+je: mets
+tu: mets
+il/elle/on: met
+nous: mettons
+vous: mettez
+ils/elles: mettent

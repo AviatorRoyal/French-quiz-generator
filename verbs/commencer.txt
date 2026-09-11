@@ -1,0 +1,12 @@
+verb: commencer
+english: to begin
+group: spelling-change -er verb
+note: c becomes ç before -ons so it stays soft: nous commençons.
+---
+tense: présent
+je: commence
+tu: commences
+il/elle/on: commence
+nous: commençons
+vous: commencez
+ils/elles: commencent

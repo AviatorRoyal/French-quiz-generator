@@ -1,0 +1,12 @@
+verb: voyager
+english: to travel
+group: spelling-change -er verb
+note: Keeps the -e- before -ons so the g stays soft: nous mangeons.
+---
+tense: présent
+je: voyage
+tu: voyages
+il/elle/on: voyage
+nous: voyageons
+vous: voyagez
+ils/elles: voyagent

@@ -1,0 +1,12 @@
+verb: croire
+english: to believe
+group: irregular verb
+note: Like voir: the i becomes y in nous croyons.
+---
+tense: présent
+je: crois
+tu: crois
+il/elle/on: croit
+nous: croyons
+vous: croyez
+ils/elles: croient

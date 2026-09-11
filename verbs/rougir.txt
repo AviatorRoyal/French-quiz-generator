@@ -1,0 +1,11 @@
+verb: rougir
+english: to blush
+group: 2nd-group -ir verb
+---
+tense: présent
+je: rougis
+tu: rougis
+il/elle/on: rougit
+nous: rougissons
+vous: rougissez
+ils/elles: rougissent

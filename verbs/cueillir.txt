@@ -1,0 +1,12 @@
+verb: cueillir
+english: to pick
+group: 3rd-group -ir verb
+note: Takes -er endings like ouvrir.
+---
+tense: présent
+je: cueille
+tu: cueilles
+il/elle/on: cueille
+nous: cueillons
+vous: cueillez
+ils/elles: cueillent

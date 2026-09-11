@@ -1,0 +1,11 @@
+verb: avertir
+english: to warn
+group: 2nd-group -ir verb
+---
+tense: présent
+j': avertis
+tu: avertis
+il/elle/on: avertit
+nous: avertissons
+vous: avertissez
+ils/elles: avertissent

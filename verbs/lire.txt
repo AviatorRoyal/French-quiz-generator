@@ -1,0 +1,12 @@
+verb: lire
+english: to read
+group: irregular verb
+note: The plural adds -s-: nous lisons.
+---
+tense: présent
+je: lis
+tu: lis
+il/elle/on: lit
+nous: lisons
+vous: lisez
+ils/elles: lisent

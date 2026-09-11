@@ -1,0 +1,11 @@
+verb: pendre
+english: to hang
+group: regular -re verb
+---
+tense: présent
+je: pends
+tu: pends
+il/elle/on: pend
+nous: pendons
+vous: pendez
+ils/elles: pendent

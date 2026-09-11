@@ -1,0 +1,12 @@
+verb: remplacer
+english: to replace
+group: spelling-change -er verb
+note: c becomes ç before -ons so it stays soft: nous commençons.
+---
+tense: présent
+je: remplace
+tu: remplaces
+il/elle/on: remplace
+nous: remplaçons
+vous: remplacez
+ils/elles: remplacent

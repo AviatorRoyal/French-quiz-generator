@@ -1,0 +1,11 @@
+verb: choisir
+english: to choose
+group: 2nd-group -ir verb
+---
+tense: présent
+je: choisis
+tu: choisis
+il/elle/on: choisit
+nous: choisissons
+vous: choisissez
+ils/elles: choisissent

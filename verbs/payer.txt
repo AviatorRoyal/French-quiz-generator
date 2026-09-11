@@ -1,0 +1,12 @@
+verb: payer
+english: to pay
+group: spelling-change -er verb
+note: y may become i before a silent ending — je paie and je paye are both correct.
+---
+tense: présent
+je: paie / paye
+tu: paies / payes
+il/elle/on: paie / paye
+nous: payons
+vous: payez
+ils/elles: paient / payent

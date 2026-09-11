@@ -1,0 +1,11 @@
+verb: habiter
+english: to live
+group: regular -er verb
+---
+tense: présent
+j': habite
+tu: habites
+il/elle/on: habite
+nous: habitons
+vous: habitez
+ils/elles: habitent

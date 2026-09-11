@@ -1,0 +1,11 @@
+verb: chercher
+english: to look for
+group: regular -er verb
+---
+tense: présent
+je: cherche
+tu: cherches
+il/elle/on: cherche
+nous: cherchons
+vous: cherchez
+ils/elles: cherchent

@@ -1,0 +1,11 @@
+verb: maigrir
+english: to lose weight
+group: 2nd-group -ir verb
+---
+tense: présent
+je: maigris
+tu: maigris
+il/elle/on: maigrit
+nous: maigrissons
+vous: maigrissez
+ils/elles: maigrissent

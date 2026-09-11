@@ -1,0 +1,12 @@
+verb: essayer
+english: to try
+group: spelling-change -er verb
+note: y may become i before a silent ending — je paie and je paye are both correct.
+---
+tense: présent
+j': essaie / essaye
+tu: essaies / essayes
+il/elle/on: essaie / essaye
+nous: essayons
+vous: essayez
+ils/elles: essaient / essayent

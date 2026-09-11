@@ -1,0 +1,11 @@
+verb: demander
+english: to ask
+group: regular -er verb
+---
+tense: présent
+je: demande
+tu: demandes
+il/elle/on: demande
+nous: demandons
+vous: demandez
+ils/elles: demandent

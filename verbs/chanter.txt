@@ -1,0 +1,11 @@
+verb: chanter
+english: to sing
+group: regular -er verb
+---
+tense: présent
+je: chante
+tu: chantes
+il/elle/on: chante
+nous: chantons
+vous: chantez
+ils/elles: chantent

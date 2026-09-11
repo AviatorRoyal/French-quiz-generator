@@ -1,0 +1,11 @@
+verb: tendre
+english: to hold out
+group: regular -re verb
+---
+tense: présent
+je: tends
+tu: tends
+il/elle/on: tend
+nous: tendons
+vous: tendez
+ils/elles: tendent

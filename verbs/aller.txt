@@ -1,0 +1,12 @@
+verb: aller
+english: to go
+group: irregular verb
+note: Looks like an -er verb but is irregular: je vais, nous allons.
+---
+tense: présent
+je: vais
+tu: vas
+il/elle/on: va
+nous: allons
+vous: allez
+ils/elles: vont

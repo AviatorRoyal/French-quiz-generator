@@ -1,0 +1,12 @@
+verb: promener
+english: to walk (a dog)
+group: spelling-change -er verb
+note: e becomes è in the singular and ils/elles — but not in nous/vous.
+---
+tense: présent
+je: promène
+tu: promènes
+il/elle/on: promène
+nous: promenons
+vous: promenez
+ils/elles: promènent

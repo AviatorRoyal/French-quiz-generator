@@ -1,0 +1,12 @@
+verb: obtenir
+english: to obtain
+group: 3rd-group -ir verb
+note: tenir-type: obtienn- in the singular and ils/elles.
+---
+tense: présent
+j': obtiens
+tu: obtiens
+il/elle/on: obtient
+nous: obtenons
+vous: obtenez
+ils/elles: obtiennent

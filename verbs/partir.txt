@@ -1,0 +1,12 @@
+verb: partir
+english: to leave
+group: 3rd-group -ir verb
+note: partir-type: the singular drops the last stem consonant — je pars, nous partons.
+---
+tense: présent
+je: pars
+tu: pars
+il/elle/on: part
+nous: partons
+vous: partez
+ils/elles: partent

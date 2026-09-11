@@ -1,0 +1,11 @@
+verb: obéir
+english: to obey
+group: 2nd-group -ir verb
+---
+tense: présent
+j': obéis
+tu: obéis
+il/elle/on: obéit
+nous: obéissons
+vous: obéissez
+ils/elles: obéissent

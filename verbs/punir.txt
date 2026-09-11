@@ -1,0 +1,11 @@
+verb: punir
+english: to punish
+group: 2nd-group -ir verb
+---
+tense: présent
+je: punis
+tu: punis
+il/elle/on: punit
+nous: punissons
+vous: punissez
+ils/elles: punissent

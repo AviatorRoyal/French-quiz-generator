@@ -1,0 +1,12 @@
+verb: nettoyer
+english: to clean
+group: spelling-change -er verb
+note: y becomes i before a silent ending: nous -yons but je -ie.
+---
+tense: présent
+je: nettoie
+tu: nettoies
+il/elle/on: nettoie
+nous: nettoyons
+vous: nettoyez
+ils/elles: nettoient

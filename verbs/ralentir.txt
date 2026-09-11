@@ -1,0 +1,11 @@
+verb: ralentir
+english: to slow down
+group: 2nd-group -ir verb
+---
+tense: présent
+je: ralentis
+tu: ralentis
+il/elle/on: ralentit
+nous: ralentissons
+vous: ralentissez
+ils/elles: ralentissent

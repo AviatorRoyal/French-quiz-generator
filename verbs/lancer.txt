@@ -1,0 +1,12 @@
+verb: lancer
+english: to throw
+group: spelling-change -er verb
+note: c becomes ç before -ons so it stays soft: nous commençons.
+---
+tense: présent
+je: lance
+tu: lances
+il/elle/on: lance
+nous: lançons
+vous: lancez
+ils/elles: lancent

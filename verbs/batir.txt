@@ -1,0 +1,11 @@
+verb: bâtir
+english: to build
+group: 2nd-group -ir verb
+---
+tense: présent
+je: bâtis
+tu: bâtis
+il/elle/on: bâtit
+nous: bâtissons
+vous: bâtissez
+ils/elles: bâtissent

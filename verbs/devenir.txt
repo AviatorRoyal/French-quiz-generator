@@ -1,0 +1,12 @@
+verb: devenir
+english: to become
+group: 3rd-group -ir verb
+note: venir-type: devienn- in the singular and ils/elles.
+---
+tense: présent
+je: deviens
+tu: deviens
+il/elle/on: devient
+nous: devenons
+vous: devenez
+ils/elles: deviennent

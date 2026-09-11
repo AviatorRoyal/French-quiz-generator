@@ -76,6 +76,8 @@ export function parseQuiz(text, filename) {
     title: head.title || filename,
     description: head.description || '',
     tags: splitList(head.tags),
+    // How many of the bank to ask per attempt; 0 means "all of them".
+    pick: Math.min(Number(head.pick) || 0, questions.length),
     questions,
   };
 }

@@ -1,0 +1,12 @@
+verb: devoir
+english: to have to
+group: irregular verb
+note: Stem doi- / dev- / doiv-.
+---
+tense: présent
+je: dois
+tu: dois
+il/elle/on: doit
+nous: devons
+vous: devez
+ils/elles: doivent

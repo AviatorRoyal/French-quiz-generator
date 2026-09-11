@@ -1,0 +1,11 @@
+verb: défendre
+english: to defend
+group: regular -re verb
+---
+tense: présent
+je: défends
+tu: défends
+il/elle/on: défend
+nous: défendons
+vous: défendez
+ils/elles: défendent

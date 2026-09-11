@@ -12,7 +12,24 @@ const sheetTitle = document.getElementById('hint-title');
 const STRICT_KEY = 'fc-strict-accents';
 let strictAccents = localStorage.getItem(STRICT_KEY) === '1';
 
-const state = { quiz: null, index: 0, results: [], answered: false };
+const state = { quiz: null, questions: [], index: 0, results: [], answered: false };
+
+// Fisher-Yates, in place.
+function shuffle(items) {
+  for (let i = items.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [items[i], items[j]] = [items[j], items[i]];
+  }
+  return items;
+}
+
+// A fresh draw from the bank, with the options in a fresh order too.
+function drawQuestions(quiz) {
+  const drawn = shuffle([...quiz.questions]);
+  return (quiz.pick ? drawn.slice(0, quiz.pick) : drawn).map((question) =>
+    question.choices.length ? { ...question, choices: shuffle([...question.choices]) } : question
+  );
+}
 
 /* ---------- answer checking ---------- */
 
@@ -101,7 +118,7 @@ function renderVerbTable(verb, question) {
 }
 
 async function openHint() {
-  const question = state.quiz.questions[state.index];
+  const question = state.questions[state.index];
   state.results[state.index] = { ...(state.results[state.index] || {}), hinted: true };
   root.querySelector('[data-hint-flag]')?.removeAttribute('hidden');
 
@@ -138,12 +155,11 @@ sheet.addEventListener('click', (e) => {
 /* ---------- question rendering ---------- */
 
 function renderQuestion() {
-  const quiz = state.quiz;
-  const question = quiz.questions[state.index];
+  const question = state.questions[state.index];
   const hinted = state.results[state.index]?.hinted;
   state.answered = false;
 
-  const progress = (state.index / quiz.questions.length) * 100;
+  const progress = (state.index / state.questions.length) * 100;
 
   const body =
     question.type === 'mcq'
@@ -166,8 +182,8 @@ function renderQuestion() {
   root.innerHTML = `
     <div class="quiz-head">
       <div>
-        <p class="eyebrow">${quiz.subject} · ${quiz.title}</p>
-        <p class="counter">Question ${state.index + 1} of ${quiz.questions.length}</p>
+        <p class="eyebrow">${state.quiz.subject} · ${state.quiz.title}</p>
+        <p class="counter">Question ${state.index + 1} of ${state.questions.length}</p>
       </div>
       <label class="switch" title="Require correct accents (é, è, ê…)">
         <input type="checkbox" data-strict ${strictAccents ? 'checked' : ''}>
@@ -227,7 +243,7 @@ function submit(given, button) {
   if (state.answered) return;
   state.answered = true;
 
-  const question = state.quiz.questions[state.index];
+  const question = state.questions[state.index];
   const correct = isCorrect(given, question.accepted);
   state.results[state.index] = {
     ...(state.results[state.index] || {}),
@@ -244,7 +260,7 @@ function submit(given, button) {
   root.querySelector('.answer-input')?.setAttribute('disabled', '');
   root.querySelector('.answer-form .button')?.setAttribute('disabled', '');
 
-  const last = state.index + 1 === state.quiz.questions.length;
+  const last = state.index + 1 === state.questions.length;
   const feedback = root.querySelector('[data-feedback]');
   feedback.hidden = false;
   feedback.className = `feedback ${correct ? 'is-correct' : 'is-wrong'}`;
@@ -259,7 +275,7 @@ function submit(given, button) {
 }
 
 function next() {
-  if (state.index + 1 === state.quiz.questions.length) {
+  if (state.index + 1 === state.questions.length) {
     renderResults();
   } else {
     state.index += 1;
@@ -270,7 +286,7 @@ function next() {
 /* ---------- results ---------- */
 
 function renderResults() {
-  const total = state.quiz.questions.length;
+  const total = state.questions.length;
   const correct = state.results.filter((r) => r?.correct).length;
   const hinted = state.results.filter((r) => r?.hinted).length;
   recordScore(state.quiz.id, correct, total);
@@ -303,7 +319,9 @@ function renderResults() {
       <ol class="review">${review}</ol>
     </section>`;
 
+  // A new attempt draws a new set of questions from the bank.
   root.querySelector('[data-retry]').addEventListener('click', () => {
+    state.questions = drawQuestions(state.quiz);
     state.index = 0;
     state.results = [];
     renderQuestion();
@@ -343,6 +361,7 @@ loadQuizById(id)
       return;
     }
     state.quiz = quiz;
+    state.questions = drawQuestions(quiz);
     document.title = `${quiz.title} — Conjugaison`;
     renderQuestion();
   })

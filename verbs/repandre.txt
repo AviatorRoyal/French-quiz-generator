@@ -1,0 +1,11 @@
+verb: répandre
+english: to spread
+group: regular -re verb
+---
+tense: présent
+je: répands
+tu: répands
+il/elle/on: répand
+nous: répandons
+vous: répandez
+ils/elles: répandent

@@ -1,0 +1,12 @@
+verb: savoir
+english: to know
+group: irregular verb
+note: Stem sai- in the singular, sav- in the plural.
+---
+tense: présent
+je: sais
+tu: sais
+il/elle/on: sait
+nous: savons
+vous: savez
+ils/elles: savent

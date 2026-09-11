@@ -1,0 +1,11 @@
+verb: marcher
+english: to walk
+group: regular -er verb
+---
+tense: présent
+je: marche
+tu: marches
+il/elle/on: marche
+nous: marchons
+vous: marchez
+ils/elles: marchent
