@@ -1,0 +1,20 @@
+# Quizzes don't have to be about French verbs. A question can carry its
+# own hint text inline with "hint:" instead of pointing at a verb table.
+
+id: sample-other-subject
+subject: Sample
+title: Any subject works
+description: Proof the format isn't tied to conjugation — hints can be inline text.
+tags: demo
+---
+type: mcq
+prompt: What is the derivative of sin(x)?
+choices: cos(x) | -cos(x) | sin(x) | -sin(x)
+answer: cos(x)
+hint: d/dx sin(x) = cos(x); d/dx cos(x) = -sin(x). The sign flips on the cosine.
+why: Standard trig derivative.
+---
+type: fill
+prompt: The chemical symbol for potassium is ___.
+answer: K
+hint: From the Latin "kalium". Sodium is Na (natrium) for the same reason.

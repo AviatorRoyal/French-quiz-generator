@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conjugaison — practice quizzes</title>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='14'>🇫🇷</text></svg>">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">
+    <span class="brand-mark">é</span>
+    <span>Conjugaison</span>
+  </a>
+  <button class="icon-button" data-theme-toggle type="button" aria-label="Toggle theme">☾</button>
+</header>
+
+<main class="page">
+  <section class="hero">
+    <h1>Practice quizzes</h1>
+    <p class="lede">Pick a quiz. Stuck on one? Hit <kbd>H</kbd> and the full conjugation table opens.</p>
+  </section>
+
+  <div id="quiz-list" class="card-grid" aria-busy="true">
+    <p class="muted">Loading quizzes…</p>
+  </div>
+</main>
+
+<footer class="footer">
+  <p>Add a quiz by dropping a <code>.txt</code> file into <code>quiz/</code> and listing it in <code>quiz/index.txt</code>.</p>
+</footer>
+
+<script type="module" src="js/home.js"></script>
+</body>
+</html>

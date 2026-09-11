@@ -1,0 +1,39 @@
+verb: manger
+english: to eat
+group: 1st group (-er), spelling change before -ons
+auxiliary: avoir
+participle present: mangeant
+participle past: mangé
+note: Keeps the -e- before a/o endings to preserve the soft "g" sound.
+---
+tense: présent
+je: mange
+tu: manges
+il/elle/on: mange
+nous: mangeons
+vous: mangez
+ils/elles: mangent
+---
+tense: imparfait
+je: mangeais
+tu: mangeais
+il/elle/on: mangeait
+nous: mangions
+vous: mangiez
+ils/elles: mangeaient
+---
+tense: futur simple
+je: mangerai
+tu: mangeras
+il/elle/on: mangera
+nous: mangerons
+vous: mangerez
+ils/elles: mangeront
+---
+tense: passé composé
+je: ai mangé
+tu: as mangé
+il/elle/on: a mangé
+nous: avons mangé
+vous: avez mangé
+ils/elles: ont mangé

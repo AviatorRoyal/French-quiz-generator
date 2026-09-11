@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quiz — Conjugaison</title>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='14'>🇫🇷</text></svg>">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">
+    <span class="brand-mark">é</span>
+    <span>Conjugaison</span>
+  </a>
+  <button class="icon-button" data-theme-toggle type="button" aria-label="Toggle theme">☾</button>
+</header>
+
+<main class="page page-narrow">
+  <div id="quiz-root" aria-busy="true">
+    <p class="muted">Loading quiz…</p>
+  </div>
+</main>
+
+<div class="sheet" id="hint-sheet" hidden>
+  <div class="sheet-backdrop" data-close-hint></div>
+  <aside class="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="hint-title">
+    <div class="sheet-head">
+      <h2 id="hint-title">Hint</h2>
+      <button class="icon-button" type="button" data-close-hint aria-label="Close hint">✕</button>
+    </div>
+    <div class="sheet-body" id="hint-body"></div>
+  </aside>
+</div>
+
+<script type="module" src="js/quiz.js"></script>
+</body>
+</html>

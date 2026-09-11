@@ -1,0 +1,6 @@
+# One quiz file per line. Lines starting with # are ignored.
+# Order here = order shown on the home page.
+
+french-present-er.txt
+french-mixed-demo.txt
+sample-other-subject.txt
