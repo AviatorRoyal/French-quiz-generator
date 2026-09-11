@@ -76,8 +76,11 @@ function renderVerbTable(verb, question) {
 
   const tables = verb.tenses
     .map((tense) => {
+      // With a single tense there is nothing to pick out, so skip the flourish.
       const highlight =
-        wantedTense && stripAccents(tense.name.toLowerCase()).includes(wantedTense);
+        verb.tenses.length > 1 &&
+        wantedTense &&
+        stripAccents(tense.name.toLowerCase()).includes(wantedTense);
       const rows = tense.rows
         .map(
           ([label, form]) =>

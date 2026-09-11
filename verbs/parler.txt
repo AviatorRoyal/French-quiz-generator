@@ -4,9 +4,6 @@
 verb: parler
 english: to speak / to talk
 group: 1st group (-er), regular
-auxiliary: avoir
-participle present: parlant
-participle past: parlé
 ---
 tense: présent
 je: parle
@@ -15,27 +12,3 @@ il/elle/on: parle
 nous: parlons
 vous: parlez
 ils/elles: parlent
----
-tense: imparfait
-je: parlais
-tu: parlais
-il/elle/on: parlait
-nous: parlions
-vous: parliez
-ils/elles: parlaient
----
-tense: futur simple
-je: parlerai
-tu: parleras
-il/elle/on: parlera
-nous: parlerons
-vous: parlerez
-ils/elles: parleront
----
-tense: passé composé
-je: ai parlé
-tu: as parlé
-il/elle/on: a parlé
-nous: avons parlé
-vous: avez parlé
-ils/elles: ont parlé

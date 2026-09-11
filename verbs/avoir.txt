@@ -1,9 +1,6 @@
 verb: avoir
 english: to have
 group: irregular
-auxiliary: avoir
-participle present: ayant
-participle past: eu
 ---
 tense: présent
 je: ai
@@ -12,27 +9,3 @@ il/elle/on: a
 nous: avons
 vous: avez
 ils/elles: ont
----
-tense: imparfait
-je: avais
-tu: avais
-il/elle/on: avait
-nous: avions
-vous: aviez
-ils/elles: avaient
----
-tense: futur simple
-je: aurai
-tu: auras
-il/elle/on: aura
-nous: aurons
-vous: aurez
-ils/elles: auront
----
-tense: passé composé
-je: ai eu
-tu: as eu
-il/elle/on: a eu
-nous: avons eu
-vous: avez eu
-ils/elles: ont eu

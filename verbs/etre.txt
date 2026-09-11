@@ -1,9 +1,6 @@
 verb: être
 english: to be
 group: irregular
-auxiliary: avoir
-participle present: étant
-participle past: été
 ---
 tense: présent
 je: suis
@@ -12,27 +9,3 @@ il/elle/on: est
 nous: sommes
 vous: êtes
 ils/elles: sont
----
-tense: imparfait
-je: étais
-tu: étais
-il/elle/on: était
-nous: étions
-vous: étiez
-ils/elles: étaient
----
-tense: futur simple
-je: serai
-tu: seras
-il/elle/on: sera
-nous: serons
-vous: serez
-ils/elles: seront
----
-tense: passé composé
-je: ai été
-tu: as été
-il/elle/on: a été
-nous: avons été
-vous: avez été
-ils/elles: ont été

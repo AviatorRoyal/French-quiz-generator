@@ -1,7 +1,12 @@
 # Conjugaison — French conjugation practice
 
-A static quiz site for practising French verb conjugations. No build step, no
-dependencies — it's plain HTML/CSS/JS and it runs straight off GitHub Pages.
+A static quiz site for practising French verb conjugations — the **présent**
+only, which is what the test covers. No build step, no dependencies — it's
+plain HTML/CSS/JS and it runs straight off GitHub Pages.
+
+The format isn't limited to one tense: a verb file can hold as many `tense:`
+blocks as you like, and the hint panel highlights whichever one the question
+is about. Only the présent is filled in for now.
 
 All content lives in plain text files: quizzes in `quiz/`, verb tables in
 `verbs/`. Adding material never means touching the code.
@@ -91,9 +96,6 @@ travel badly over the web. The `verb:` field inside keeps the real spelling.
 verb: être
 english: to be
 group: irregular
-auxiliary: avoir
-participle present: étant
-participle past: été
 note: Optional footnote shown under the header.
 ---
 tense: présent
@@ -103,11 +105,11 @@ il/elle/on: est
 nous: sommes
 vous: êtes
 ils/elles: sont
----
-tense: imparfait
-je: étais
-...
 ```
+
+Add more `---` blocks to cover further tenses — `auxiliary:`,
+`participle present:` and `participle past:` in the header render too, for when
+compound tenses matter.
 
 Person labels are free text and render in file order, so this works for any
 language — or any subject where a reference table makes sense.
